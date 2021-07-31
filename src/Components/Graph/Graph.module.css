@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+.graph{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+}
